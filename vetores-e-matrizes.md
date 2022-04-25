@@ -23,3 +23,7 @@ Se estou pedindo 3 inteiros, seriam 96 bits (32 . 3)
 	
 	temp [2] = 8,9;
 	temp índice 2, oito vírgula nove.
+
+	int notas [] = {8, 9, 10, 8, 9}
+	* 5 elementos
+	notas [3] = 8; (notas ídice 3 = 8)
