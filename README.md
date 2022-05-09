@@ -69,4 +69,29 @@ m[1][2] = 4;
 
 m[2][0] = 5;
 
+o nome de uma variável faz referência ao seu conteúdo;
+
+o nome de uma matriz faz referência ao endereço de sua memória ram;
+
+# Array List
+
+matriz = array
+
+lista de matrizes
+
+### Particularidades sobre vetores e matrizes
+
+* int vet[] = new int [10]
+* vet [2] = 8080;
+
+vetor de 10 elementos e 11 posições.
+
+----------------------------------------------------------
+* String paises[] = new paises[15]
+* String paises[7] = "Noruega"
+
+vetor de 10 elementos e 16 posições.
+
+
+
 
